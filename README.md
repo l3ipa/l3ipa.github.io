@@ -1,5 +1,5 @@
 # L3-IPA
-An open source minimal theme for Jekyll, ideal for blogging.
+An open source minimal theme for Jekyll, ideal for blogging
 
 View the demo at http://diezcami.github.io/polar-bear-theme
 
