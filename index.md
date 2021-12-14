@@ -62,7 +62,7 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 # Topics of interest
 
-- Learning from imbalanced data
+- learning from imbalanced data
 - life-long learning methods and practical applications multi-task learning
 - transfer learning
 - zero-shot and few-shot learning
@@ -91,19 +91,25 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
   - new benchmark problems for facilitating fair experimental comparisons and understanding performance among life-long learning methods.
   - proposal of new building blocks for an open-source, community-backed library for life-long learning.
 
-<!--
-# Key dates
+
+# Important dates
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 15 February 2021 |
-| Notification to authors | 15 March 2021 |
-| Camera-ready papers | 5 April 2021 |
-| Author registration | 15 March – 5 April 2021 |
+| Paper submission | January 31, 2022 (11:59 PM AoE)  |
+| Notification of acceptance | April 26, 2022 |
+| Final paper submission| May 23, 2022 |
+
+<!-- | Author registration | 15 March – 5 April 2021 |
 | Non-author early registration | 15 March – 23 April 2021 |
 | Non-author late registration | from 24 April 2021 |
-| Conference sessions | 16-18 June 2021 |
--->
+| Conference sessions | 16-18 June 2021 | -->
+
+
+# Paper submission 
+
+The instruction and link of submission system are available [here](https://wcci2022.org/submission/)
+If you would like to submit your work to our session please choose IJCNN track and select the L3-IPA special session
 
 <!--
 # Program
@@ -182,13 +188,13 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 {% endfor %}
 </ul>
 
-## Bios
+<!-- ## Bios
 
 Michał Woźniak is a professor of computer science at the Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Poland. His research focuses on machine learning, compound classification methods, classifier ensembles, data stream mining, and imbalanced data processing. Prof. Woźniak has been involved in research projects related to the topics mentioned above and has been a consultant for several commercial projects for well-known Polish companies and public administration. He has published over 300 papers and three books. Prof. Woźniak was awarded numerous prestigious awards for his scientific achievements as IBM Smarter Planet Faculty Innovation Award (twice) or IEEE Outstanding Leadership Award, and several best paper awards of the prestigious conferences.
 
 Jan Platos is a dean of the Faculty of Electrical Engineering and Computer Science, VSB - Technical University of Ostrava, and a professor at the Department of Computer Science in the same faculty.  He has co-authored more than 230 scientific articles published in proceedings and journals. His citation report consists of 577 citations and H-index of 11 on the Web of Science, 1041 citations and H-index of 15 on Scopus, and 1588 citations and H-index of 19 on Google Scholar. His primary fields of interest are machine learning, artificial intelligence, industrial data processing, text processing, data compression, bioinspired algorithms, information retrieval, data mining, data structures, and data prediction.
 
-Dr. Sebastian Basterrech obtained his PhD in INRIA-France at the end of 2012 in the area of queuing networks and neural networks. His main areas of interests are recurrent systems for modeling chaotic time-series, numerical optimization and neural network architecture search. He is part of the research staff in the Computer Science Department at FEI, VSB, Czechia.  S. Basterrech has more than 45 articles in Scopus including publications in several impact factor journals, book chapters and conference proceedings. He is a TC member of the International IEEE SMC Soft-Computing Society, regular member of the International Neural Network Society, and invited member of the IEEE Task Force on Reservoir Computing.
+Dr. Sebastian Basterrech obtained his PhD in INRIA-France at the end of 2012 in the area of queuing networks and neural networks. His main areas of interests are recurrent systems for modeling chaotic time-series, numerical optimization and neural network architecture search. He is part of the research staff in the Computer Science Department at FEI, VSB, Czechia.  S. Basterrech has more than 45 articles in Scopus including publications in several impact factor journals, book chapters and conference proceedings. He is a TC member of the International IEEE SMC Soft-Computing Society, regular member of the International Neural Network Society, and invited member of the IEEE Task Force on Reservoir Computing. -->
 
 
 <br><br>
