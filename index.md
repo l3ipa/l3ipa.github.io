@@ -153,18 +153,6 @@ If you would like to submit your work to our session please choose IJCNN track a
 <div class='cleaner'></div>
 -->
 
-<!--
-# Program committee
-
-<ul>
-{% assign sorted = (site.data.pc | sort: 'last') %}
-{% for person in sorted %}
-<li>
-    {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
-</li>
-{% endfor %}
-</ul>
--->
 
 # Session Chairs
 
@@ -196,6 +184,30 @@ Jan Platos is a dean of the Faculty of Electrical Engineering and Computer Scien
 
 Dr. Sebastian Basterrech obtained his PhD in INRIA-France at the end of 2012 in the area of queuing networks and neural networks. His main areas of interests are recurrent systems for modeling chaotic time-series, numerical optimization and neural network architecture search. He is part of the research staff in the Computer Science Department at FEI, VSB, Czechia.  S. Basterrech has more than 45 articles in Scopus including publications in several impact factor journals, book chapters and conference proceedings. He is a TC member of the International IEEE SMC Soft-Computing Society, regular member of the International Neural Network Society, and invited member of the IEEE Task Force on Reservoir Computing. -->
 
+
+# Program Committee
+
+TBA
+
+<!-- <ul>
+{% assign sorted = (site.data.pc | sort: 'last') %}
+{% for person in sorted %}
+<li>
+    {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
+</li>
+{% endfor %}
+</ul> -->
+
+# Organizing Committee
+
+<ul>
+{% assign sorted = (site.data.oc | sort: 'last') %}
+{% for person in sorted %}
+<li>
+    {{ person.first }} {{person.last}}
+</li>
+{% endfor %}
+</ul>
 
 <br><br>
 
